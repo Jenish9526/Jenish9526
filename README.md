@@ -49,13 +49,6 @@ I enjoy turning ideas into working applications, from AI-powered document system
 
 ---
 
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jenish9526)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jenishdobariya92@gmail.com)
-
----
-
 ## Current Focus
 
 - Building AI-powered applications and intelligent systems
