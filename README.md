@@ -1,114 +1,66 @@
-# Hi, I'm Jenish Dobariya 👋
+# About Me
 
-### B.Tech Computer Science Engineering Student | AI & Full-Stack Developer
+Hi, I'm **Jenish Dobariya!** 👋
 
-I build practical software across **AI, RAG systems, full-stack applications, automation, and algorithmic problem solving**.
+I'm a **B.Tech Computer Science Engineering student** interested in building practical software and exploring **Artificial Intelligence, RAG systems, and Full-Stack Development**.
 
-Currently focused on building reliable AI-powered applications and full-stack systems that turn real-world problems into working software.
-
-**Interests:** Artificial Intelligence • RAG • Full-Stack Development • Backend Systems • Automation • DSA
+I enjoy turning ideas into working applications, from AI-powered document systems and backend APIs to full-stack web applications and algorithmic projects. I'm also continuously improving my **problem-solving, system design, and software engineering skills**.
 
 ---
 
-## 🚀 Featured Projects
+## Socials
 
-A selection of projects that represent my work across AI, full-stack development, automation, and systems programming.
-
-### 🤖 RAG Document Assistant
-
-AI-powered document Q&A system using **Retrieval-Augmented Generation**, FAISS, SentenceTransformers, FastAPI, Streamlit, and LLM APIs.
-
-- Multi-format document ingestion
-- Semantic retrieval with FAISS
-- Grounded answers with source citations
-- Streamlit interface + FastAPI REST API
-- Supports multiple LLM providers
-
-[View Repository](https://github.com/Jenish9526/RAG-Document-Assistant)
-
-### 🚍 TransitOps
-
-Full-stack fleet and transport management platform built with **React, Node.js, Express, MongoDB, and JWT authentication**.
-
-- Vehicle and driver management
-- Trip dispatching
-- Fuel and maintenance tracking
-- Role-based access control
-- Dashboard and analytics
-
-[View Repository](https://github.com/Jenish9526/Odoo-July-26)
-
-### 📦 CoreInventory
-
-Full-stack inventory management system built with **React, Node.js, Express, MongoDB, and Socket.IO**.
-
-- Multi-warehouse inventory
-- Stock movements and audit trail
-- Barcode scanning
-- Real-time updates
-- Role-based access
-- PDF and Excel reporting
-
-[View Repository](https://github.com/Jenish9526/core-inventory-odoo-x-indus-hackathon)
-
-### 🖥️ NOVA
-
-A controlled desktop virtual assistant supporting **voice and text commands** through a shared natural-language command pipeline.
-
-- Voice and text input
-- Intent-based command routing
-- Application and website automation
-- Notes and command history
-- Text-to-speech support
-- Safety-focused action controls
-
-[View Repository](https://github.com/Jenish9526/NOVA)
-
-### 🚑 Smart Emergency Queue System
-
-C++ emergency-room management system demonstrating practical use of **data structures and priority-based scheduling**.
-
-- Max-heap priority queue
-- Doubly linked list
-- Circular queue
-- Stack-based undo/redo
-- Hash map with chaining
-- Emergency triage and doctor assignment
-
-[View Repository](https://github.com/Jenish9526/Smart-Emergency-queue-system)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
-Python • C++ • Java • JavaScript
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
 
 ### AI & Data
-RAG • FAISS • SentenceTransformers • LLM APIs • NumPy • Pandas
 
-### Frontend
-React • Streamlit • HTML • CSS 
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-4B8BBE?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### Backend
-FastAPI • Node.js • Express • MongoDB
+### Web & Backend
 
-### Tools & Platforms
-Git • GitHub • VS Code • REST APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
-- Building and improving AI-powered applications
-- Exploring Retrieval-Augmented Generation and LLM systems
-- Developing production-oriented full-stack applications
-- Improving software architecture, testing, and deployment practices
+- Building AI-powered applications and intelligent systems
+- Exploring Retrieval-Augmented Generation (RAG) and modern AI technologies
+- Developing full-stack web applications
+- Strengthening problem-solving and software engineering skills
 
 ---
-
-## 📫 Connect With Me
-
-- **GitHub:** [@Jenish9526](https://github.com/Jenish9526)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/jenish9526)
-- **Email:** [Contact Me](mailto:jenishdobariya92@gmail.com)
